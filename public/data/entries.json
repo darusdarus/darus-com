@@ -1,0 +1,17 @@
+{
+  "building": [
+    {"title": "Rentor", "note": "property management company I founded", "url": "", "pinned": true}
+  ],
+  "useful": [
+    {"title": "Example: a useful thing", "note": "EXAMPLE ENTRY - replace with something you actually find useful", "url": "", "example": true}
+  ],
+  "tools": [
+    {"title": "Example: a favorite tool", "note": "EXAMPLE ENTRY - replace with a real tool", "url": "", "example": true}
+  ],
+  "games": [
+    {"title": "Example: a game worth playing", "note": "EXAMPLE ENTRY - replace with a real game", "url": "", "example": true}
+  ],
+  "ideas": [
+    {"title": "Example: an idea I keep thinking about", "note": "EXAMPLE ENTRY - replace with a real idea", "url": "", "example": true}
+  ]
+}
